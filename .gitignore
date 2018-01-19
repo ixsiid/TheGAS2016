@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+.vscode/
+secret/
+src/
+gapps.config.json
+
